@@ -1,6 +1,6 @@
 # theme                  : minimal-mistakes-jekyll
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default", "air", no"aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air"
 
 # Site Settings
 locale                   : "en-US"
@@ -25,6 +25,7 @@ comments:
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
+
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
