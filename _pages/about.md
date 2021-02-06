@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "About"
 ---
 
 Welcome to my Website! I hope you will find useful information and relevant insights here. If you wish to contact me, please connect to me via [Linkedin](https://www.linkedin.com/in/andrea-giussani-764816148/).
@@ -28,7 +28,7 @@ If, instead, you wish to get regular updates on my work, you can just simply sub
 
 <!--End mc_embed_signup-->
 
-## Short Bio 
+## Short Bio
 
 I am a Machine Learning Developer with actual focus on Natural Language Processing.
 I hold a PhD in Statistics from Bocconi University, with a strong background in Probability and Statistical Modeling. During my PhD (2014-2017) I have focused on Multivariate Survival Models, and a list of published works is available here:
