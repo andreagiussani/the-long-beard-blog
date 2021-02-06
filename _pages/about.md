@@ -1,6 +1,8 @@
 ---
-permalink: /about/
-title: "About"
+  title: "About Me"
+  permalink: /about/
+  header:
+    image:
 ---
 
 Welcome to my Website! I hope you will find useful information and relevant insights here. If you wish to contact me, please connect to me via [Linkedin](https://www.linkedin.com/in/andrea-giussani-764816148/).
