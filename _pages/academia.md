@@ -19,6 +19,6 @@ So far, I have produced the following courses:
  - [Data Wrangling with Pandas](https://cloudacademy.com/course/data-wrangling-with-pandas-1089/course-introduction/?context_resource=lp&context_id=1988).
  - [Data Visualization with Python using Matplotlib](https://cloudacademy.com/course/data-visualization-with-python-using-matplotlib-1127/course-introduction/?context_resource=lp&context_id=2148).
  - Interactive Data Visualization with Python using Bokeh.
- - Advanced Pandas for Data Analytics.
+ - [Advanced Pandas for Data Analytics](https://cloudacademy.com/course/advanced-pandas-for-data-analytics-1267/introduction/).
 
 I am holding several webinars as well. Among many, I am actually involved in a five-episodes series on Pandas. More details can be found [here](https://github.com/cloudacademy/ca-pandas-webinars).
