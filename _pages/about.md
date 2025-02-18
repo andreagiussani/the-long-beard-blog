@@ -24,7 +24,7 @@ I hold a PhD in Statistics from Bocconi University, with a strong foundation in 
 
 I continue my collaboration with Bocconi University as an Academic Fellow in Computer Science. Currently, I teach *[Applied Machine Learning with Python](https://www.unibocconi.it/it/studenti-iscritti/it-education-center/attivita-integrative-curriculari-solo-studenti-di-laurea-magistrale/calendario)*, offering students the tools and knowledge to apply machine learning techniques using Python.
 
-If you wish to contact me, please connect to me via [Linkedin](https://www.linkedin.com/in/andrea-giussani-764816148/). If, instead, you wish to get regular updates on my work, you can just simply subscribe to this website down here.
+If you wish to contact me, please connect to me via [Linkedin](https://www.linkedin.com/in/andrea-giussani). If, instead, you wish to get regular updates on my work, you can just simply subscribe to this website down here.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css" rel="stylesheet" type="text/css">
