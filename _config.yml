@@ -91,9 +91,9 @@ analytics:
 author:
   name             : "Andrea Giussani, PhD"
   avatar           : '/images/giuss01.jpeg' # "avatar.jpg"
-  bio              : "Full-time Data Scientist at Cloud Academy. I am also an Academic Fellow in Computer Science at Bocconi University. Passionated about Statistical Modeling and Learning."
+  bio              : "Data Engineer and Academic Fellow in Computer Science at Bocconi University (Milan, Italy)."
   location         : #""
-  email            : "andrea.f.giussani@gmail.com"
+  email            : # "andrea.f.giussani@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -108,7 +108,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "andrea-giussani-764816148/"
+  linkedin         : "andrea-giussani"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
