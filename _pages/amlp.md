@@ -1,6 +1,6 @@
 ---
-  title: "Some Personal Interests"
-  permalink: /personal/
+  title: "Applied Machine Learning with Python"
+  permalink: /amlp/
   header:
     image:
 ---
