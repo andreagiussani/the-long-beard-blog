@@ -2,8 +2,6 @@
 main:
   - title: "About Me"
     url: /about/
-  - title: "Applied Machine Learning with Python"
-    url: /amlp/
   - title: "Posts"
     url: /posts/
   - title: "Categories"
