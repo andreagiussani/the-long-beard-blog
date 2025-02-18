@@ -7,7 +7,12 @@
 
 ## Short Bio
 
-I am a Data Engineer with great experience as aMachine Learning Developer with focus on Natural Language Processing.
+I am a modern Data Engineer with extensive experience as a Machine Learning Developer, specializing in Natural Language Processing. 
+My work goes beyond just managing terabytes of data in modern databases; I am deeply involved in the entire machine learning deployment process as well. 
+This focus wasn’t by accident: I believe that a great ML model starts with great data. Over time, I have leaned into Data Engineering, driven by a desire to be the kind of Data Engineer I would have loved to have had as a Junior Scientist.
+
+
+## Some Facts on myself
 I hold a PhD in Statistics from Bocconi University, with a strong background in Probability and Statistical Modeling. During my PhD (2014-2017) I have focused on Multivariate Survival Models, and a list of published works is available here:
   - Giussani, A. [[2021]](https://www.amazon.com/Applied-Machine-Learning-Python-Giussani/dp/8831322044). Applied MAchine Learning with Python. Bocconi University Press
   - Giussani, A. and Bonetti, M. [(2019)](https://www.sciencedirect.com/science/article/pii/S0167715219301385). A note on the length-biased Weibull-Gamma frailty survival model. Volume 153, Pages 32-36.
