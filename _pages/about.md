@@ -7,15 +7,16 @@
 
 ## Short Bio
 
-I am a Machine Learning Developer with actual focus on Natural Language Processing.
+I am a Data Engineer with great experience as aMachine Learning Developer with focus on Natural Language Processing.
 I hold a PhD in Statistics from Bocconi University, with a strong background in Probability and Statistical Modeling. During my PhD (2014-2017) I have focused on Multivariate Survival Models, and a list of published works is available here:
- - Giussani, A. and Bonetti, M. [(2019)](https://www.sciencedirect.com/science/article/pii/S0167715219301385). A note on the length-biased Weibull-Gamma frailty survival model. Volume 153, Pages 32-36.
+  - Giussani, A. [[2021]](https://www.amazon.com/Applied-Machine-Learning-Python-Giussani/dp/8831322044). Applied MAchine Learning with Python. Bocconi University Press
+  - Giussani, A. and Bonetti, M. [(2019)](https://www.sciencedirect.com/science/article/pii/S0167715219301385). A note on the length-biased Weibull-Gamma frailty survival model. Volume 153, Pages 32-36.
   - Giussani, A. and Bonetti, M. [(2019)](https://www.tandfonline.com/doi/abs/10.1080/02664763.2019.1624694). Marshall–Olkin frailty survival models for bivariate right-censored failure time data. Volume 46, Pages 2945-2961.
   - Maconi, G., Bolzoni, E., Giussani, A., Friedman, A.B. and Duca, P. [(2014)](https://pubmed.ncbi.nlm.nih.gov/25179579/). Accuracy and cost of diagnostic strategies for patients with suspected Crohn's disease. Volume 12, Pages 1684-1692.
+  - Benedetto L., Cremonesi P., Cappelli, A., Giussani, A. and Turrin, R. [[2022]](https://aclanthology.org/2021.bea-1.16/). Survey on recent approaches to question difficulty estimation from text. ACM Computing Surveys. 
+  - Benedetto L., Aradelli G., Cremonesi P., Cappelli, A.,  Giussani, A. and Turrin, R. [[2021]](https://aclanthology.org/2021.bea-1.16). The application of Transformers for estimating the difficulty of Multiple-Choice from Text. Proceedings of the 16th Workshop on Innovative Use of NLP in Education.
 
-In 2020, I have published the book Applied Machine Learning with Python (BUP). You can find it on [Amazon.com](https://www.amazon.com/Applied-Machine-Learning-Python-Giussani/dp/8831322044).
-
-I sill continue my collaboration with Bocconi as an Academic Fellow in Computer Science. Please check the teaching Section for more details.
+I sill continue my collaboration with Bocconi as an Academic Fellow in Computer Science. I am teaching just one course there, namely [Applied Machine Learning with Python](https://www.unibocconi.it/it/studenti-iscritti/it-education-center/attivita-integrative-curriculari-solo-studenti-di-laurea-magistrale/calendario).
 
 If you wish to contact me, please connect to me via [Linkedin](https://www.linkedin.com/in/andrea-giussani-764816148/). If, instead, you wish to get regular updates on my work, you can just simply subscribe to this website down here.
 
