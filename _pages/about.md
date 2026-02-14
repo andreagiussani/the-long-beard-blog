@@ -13,7 +13,7 @@ This focus wasn’t by accident: I believe that a great ML model starts with gre
 
 
 ## Some Facts
-I hold a PhD in Statistics from Bocconi University, with a strong foundation in Probability and Statistical Modeling. During my PhD (2014-2017), I specialized in Multivariate Survival Models. Below is a selection of my published works:
+I hold a PhD in Statistics from Bocconi University, with a strong foundation in Probability and Statistical Modeling. During my PhD (2013-2016), I specialized in Multivariate Survival Models. Below is a selection of my published works:
 
 - **Giussani, A.** (2021). *[Applied Machine Learning with Python](https://www.amazon.com/Applied-Machine-Learning-Python-Giussani/dp/8831322044)*, Bocconi University Press.
 - **Giussani, A. & Bonetti, M.** (2019). *[A Note on the Length-Biased Weibull-Gamma Frailty Survival Model](https://www.sciencedirect.com/science/article/pii/S0167715219301385)*. *Computational Statistics & Data Analysis*, Volume 153, Pages 32-36.

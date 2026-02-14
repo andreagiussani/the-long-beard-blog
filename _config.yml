@@ -90,10 +90,10 @@ analytics:
 # Site Author
 author:
   name             : "Andrea Giussani, PhD"
-  avatar           : '/images/giuss01.jpeg' # "avatar.jpg"
+  avatar           : '/images/giuss01.jpg' # "avatar.jpg"
   bio              : "Data Engineer and Academic Fellow in Computer Science at Bocconi University (Milan, Italy)."
   location         : #""
-  email            : # "andrea.f.giussani@gmail.com"
+  email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
