@@ -90,7 +90,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrea Giussani, PhD"
-  avatar           : '/images/giuss01.jpg' # "avatar.jpg"
+  avatar           : '/images/giuss01.jpeg' # "avatar.jpg"
   bio              : "Data Engineer and Academic Fellow in Computer Science at Bocconi University (Milan, Italy)."
   location         : #""
   email            :
