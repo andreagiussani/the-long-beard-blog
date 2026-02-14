@@ -140,8 +140,3 @@ bundle install
 * This repo uses `github-pages` to match GitHub Pages behavior.
 * Keep Ruby pinned via `.ruby-version` to avoid ecosystem incompatibilities.
 
-```
-
-If you want, I can also add a tiny “Quick start” section at the top (3 commands) and a “Reset everything” section for when gems get messed up.
-```
-
